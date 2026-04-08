@@ -1,0 +1,2 @@
+# iguaisaleatorio-c
+sixseven67
