@@ -16,5 +16,6 @@ jobs:
     - uses: actions/checkout@v4
     - name: compile
       run: gcc test_iguaisaleatorios.c -o test_iguaisaleatorios
-    - name: execute      run: ./test_iguaisaleatorios
+    - name: execute      
+      run: ./test_iguaisaleatorios
 
